@@ -1,2 +1,3 @@
 # Word-Cloud
-Creating a word cloud from the text file we provide
+Creating a word cloud with the text file that you upload
+
